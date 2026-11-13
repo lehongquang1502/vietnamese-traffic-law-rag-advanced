@@ -1,0 +1,29 @@
+# Core NLP & Deep Learning
+torch
+transformers
+sentence-transformers
+
+# RAG & Orchestration
+langchain
+langchain-community
+langchain-core
+chromadb
+rank-bm25
+
+# Vietnamese NLP
+pyvi
+
+# Evaluation
+ragas
+datasets
+
+# API & LLMs
+google-genai
+python-dotenv
+
+# Utilities & UI
+streamlit
+pandas
+tqdm
+pydantic
+
